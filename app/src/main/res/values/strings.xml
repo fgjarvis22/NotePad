@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotePadModule4</string>
+    <string name="my_notes">my_notes</string>
+    <string name="my_notes2">My Notes</string>
+    <string name="my_notes3">My Notes</string>
+    <string name="my_notes4">My Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="title_activity_create_note">CreateNoteActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_note_here">Type note here</string>
+</resources>
